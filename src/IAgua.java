@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface IAgua {
+public interface IAgua {
+    public void atacarHidroBomba();
+    public void atacarBurbuja();
+    public void atacarPistolaAgua();
 }
