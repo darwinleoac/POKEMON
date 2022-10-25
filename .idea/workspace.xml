@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f0aa6e2-e9d9-454f-a5e3-f7e27860a26f" name="Changes" comment="">
+    <list default="true" id="6f0aa6e2-e9d9-454f-a5e3-f7e27860a26f" name="Changes" comment="Pokemon Laboratorio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bulbasaur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bulbasaur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Charmander.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Charmander.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IAgua.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IAgua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IElectrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IElectrico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IFuego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IFuego.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPlanta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IPlanta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pikachu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pikachu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pokemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Squirtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Squirtle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -81,7 +72,16 @@
       <workItem from="1666458116652" duration="1245000" />
       <workItem from="1666703567215" duration="308000" />
       <workItem from="1666703975633" duration="1155000" />
+      <workItem from="1666705478526" duration="187000" />
     </task>
+    <task id="LOCAL-00001" summary="Pokemon Laboratorio">
+      <created>1666705572263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666705572263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pokemon Laboratorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pokemon Laboratorio" />
   </component>
 </project>
